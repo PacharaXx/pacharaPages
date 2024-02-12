@@ -108,6 +108,11 @@ header {
     .secondContent {
         flex: 1; /* Adjusted to flex: 1 for equal growth */
     }
+    
+    video {
+        width: 25%;
+        border: none;
+    }
 }
 
 
